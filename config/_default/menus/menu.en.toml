@@ -27,6 +27,11 @@
   url = "about/"
   weight = -107
 
+[[main]]
+  name = "Les Pirates"
+  url = "lespirates/"
+  weight = -107
+
 # social menu links
 
 [[social]]
